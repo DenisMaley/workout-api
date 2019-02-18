@@ -262,3 +262,6 @@ INSERT INTO `days_to_exercises` (`day_id`, `exercise_id`, `exercise_index`, `exe
   (15, 24, 2, 3, 20),
   (15, 25, 3, 3, 25),
   (15, 26, 4, 3, 20);
+
+INSERT INTO `users` (`user_id`, `user_firstname`, `user_lastname`, `user_email`, `plan_id`) VALUES
+  (1, 'Maley', 'Denis', 'denis.i.maley@gmail.com', '2');
