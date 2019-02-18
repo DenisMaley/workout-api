@@ -29,6 +29,9 @@ In real life it's better to implement such API in a framework (e.g. Phalcon)
 
 There is no functionality to change days in workout plan - it should be the next step.
 
+And then the next step - to implement unit tests with [PHPUnit](https://phpunit.de) and functional 
+testing with [Codeception](https://codeception.com)
+
 # Functionality
 
 With this API you are able to:
