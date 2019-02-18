@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `plans_to_days` (
   `plan_id`   INT(11)          NOT NULL,
   `day_id`    INT(11)          NOT NULL,
   `day_index` INT(11) UNSIGNED NOT NULL,
-  UNIQUE KEY `uk_pd_plan_id_and_day_index` (`plan_id`, `day_index`),
+  UNIQUE KEY `uk_pd_plan_id_and_day_index` (`plan_id`, `day_index`)
 )
   ENGINE = InnoDB
   DEFAULT CHARSET = utf8;
