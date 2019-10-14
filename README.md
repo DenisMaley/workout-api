@@ -1,5 +1,6 @@
 # workout-api
-The API to handle CRUD operations for workout plans
+The API to handle CRUD operations for workout plans.
+Was done as a test assignment, the main requirement: should be done without a framework.
 
 # Installation
 For this project you have to install MAMP first
